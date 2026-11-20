@@ -45,7 +45,7 @@ A web application for tracking AI models, their architectures, and performance m
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kogutkacper7/ai-tracker.git
+git clone https://github.com/kacper7-7/ai-tracker.git
 cd ai-tracker
 ```
 
