@@ -2,7 +2,7 @@
 
 A web application for tracking AI models, their architectures, and performance metrics. Built with Django as a portfolio project.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+<img width="1917" height="943" alt="dashboard" src="https://github.com/user-attachments/assets/6dcea816-50f1-49ac-82ee-3d38bcb1fecb" />
 
 ---
 
@@ -21,13 +21,23 @@ A web application for tracking AI models, their architectures, and performance m
 ## 🖥️ Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1917" height="943" alt="dashboard" src="https://github.com/user-attachments/assets/6dcea816-50f1-49ac-82ee-3d38bcb1fecb" />
 
 ### Model List
-![Model List](screenshots/model_list.png)
+<img width="1917" height="947" alt="train-models-list" src="https://github.com/user-attachments/assets/eebe8ebe-6c36-4508-86bb-ddabb53496d6" />
 
 ### Model Detail
-![Model Detail](screenshots/model_detail.png)
+
+<img width="1917" height="947" alt="train-model-detail" src="https://github.com/user-attachments/assets/b6386b4d-f7cc-4729-a18b-bfae98652916" />
+
+### Register
+<img width="1917" height="943" alt="register" src="https://github.com/user-attachments/assets/41a2b1ec-da20-4dc0-b8a5-cd927e498eeb" />
+
+### Login
+<img width="1917" height="943" alt="login" src="https://github.com/user-attachments/assets/01bcf887-b91b-44c7-861d-73923d6544a8" />
+
+### Contact us
+<img width="1907" height="948" alt="contact-us" src="https://github.com/user-attachments/assets/0c6b3fcd-19bb-4853-a437-05d2bab6e98e" />
 
 ---
 
